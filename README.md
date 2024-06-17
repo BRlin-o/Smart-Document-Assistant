@@ -1,5 +1,7 @@
 # Smart Document Assistant: A Case Study with Gogoro Vehicle Manual, AI Makes It Easy!
 
+https://github.com/BRlin-o/Smart-Document-Assistant/assets/34859596/a62099cb-f917-4511-aceb-fe174ab2e858
+
 🚀  This project, created for the #NVIDIADevContest using #LangChain and NVIDIA NIM APIs, is a smart document assistant that uses the Gogoro scooter manual as an example. It's designed to help you understand complex instructions easily! 
 
 💡  Simply ask your question, and the Agent will interact with you in natural language. It uses the ReAct framework to transform your question into a precise query and find the answer from the Gogoro manual.  **What's even better is you can choose the specific Gogoro model and language for your query!**
