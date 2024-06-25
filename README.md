@@ -12,6 +12,8 @@ https://github.com/BRlin-o/Smart-Document-Assistant/assets/34859596/a62099cb-f91
 
 💬  For prompt design, three different prompts were created: ReAct prompts, which combine specific scenarios, vehicle types, and languages; tool prompts, specifically designed for different tool characteristics; and RAG manual-related prompts, improving the quality of answers to manual-related questions.
 
+🌐 It is particularly emphasized that the document used in this project demo, the Gogoro manual, is in Chinese. Users can communicate with the Agent in English, but the Agent can retrieve and respond to queries from the Chinese manual content, enabling bilingual interaction. In the future, more language support can be implemented to accommodate a wider range of users.
+
 🚀  The video showcases the AI answering various questions about Gogoro vehicles, such as:
 - Where is the smart key card sensor located?
 - What is the function of vitamin D? (Irrelevant questions will not be answered.)
